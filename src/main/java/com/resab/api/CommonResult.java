@@ -1,4 +1,4 @@
-package com.domeke.api;
+package com.resab.api;
 
 /**
  * 通用返回对象

@@ -1,4 +1,4 @@
-package com.domeke.api;
+package com.resab.api;
 
 import cn.hutool.core.convert.Convert;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;

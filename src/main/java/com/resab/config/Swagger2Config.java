@@ -1,4 +1,4 @@
-package com.domeke.config;
+package com.resab.config;
 
 import io.swagger.annotations.ApiOperation;
 import org.springframework.context.annotation.Bean;

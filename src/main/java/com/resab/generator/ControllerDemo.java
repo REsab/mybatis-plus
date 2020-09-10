@@ -1,14 +1,4 @@
-package com.domeke.generator;
-
-import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.domeke.api.CommonPage;
-import com.domeke.api.CommonResult;
-import io.swagger.annotations.ApiOperation;
-import io.swagger.annotations.ApiParam;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.*;
+package com.resab.generator;
 
 public class ControllerDemo {
 

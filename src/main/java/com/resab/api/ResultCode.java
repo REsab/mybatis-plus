@@ -1,4 +1,4 @@
-package com.domeke.api;
+package com.resab.api;
 
 /**
  * 枚举了一些常用API操作码

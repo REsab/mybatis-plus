@@ -1,4 +1,4 @@
-package com.domeke.api;
+package com.resab.api;
 
 /**
  * 封装API的错误码

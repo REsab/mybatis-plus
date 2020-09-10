@@ -1,4 +1,4 @@
-package com.domeke.generator;
+package com.resab.generator;
 
 import cn.hutool.core.util.StrUtil;
 import cn.hutool.setting.dialect.Props;

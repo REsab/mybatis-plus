@@ -1,4 +1,4 @@
-package com.domeke.config;
+package com.resab.config;
 
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import com.baomidou.mybatisplus.extension.plugins.pagination.optimize.JsqlParserCountOptimize;
@@ -11,7 +11,8 @@ import org.springframework.context.annotation.Configuration;
  * Created by macro on 2019/4/8.
  */
 @Configuration
-@MapperScan("com.domeke.modules.toilet.mapper")
+//在这里设置 mapper 的包名
+@MapperScan("com.resab.modules.toilet.mapper")
 public class MyBatisConfig {
     @Bean
     public PaginationInterceptor paginationInterceptor() {
