@@ -25,7 +25,7 @@ public class MyBatisPlusGenerator {
    static String author = "zyl";
 
     public static void main(String[] args) {
-        String projectPath = System.getProperty("user.dir") + "/xhc";
+        String projectPath = System.getProperty("user.dir") ;
         //        String moduleName = scanner("模块名");
         //        String[] tableNames = scanner("表名，多个英文逗号分割").split(",");
         String moduleName = "toilet";
